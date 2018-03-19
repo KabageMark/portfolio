@@ -1,0 +1,40 @@
+body{
+    background-image: url("../img/shadow.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+.nice1{
+  text-align: center;
+  font-size: 200%;
+  font-style: oblique;
+}
+.nice2{
+  text-align: center;
+  font-size: 200%;
+  font-style: italic;
+  margin-left:200px;
+  margin-right:200px ;
+  margin-top:200px ;
+  margin-bottom:200px ;
+  color: blue;
+}
+.nice3{
+  text-align: center;
+  font-size: 150%;
+  font-style: italic;
+  margin-left:200px;
+  margin-right:200px ;
+  margin-top:200px ;
+  margin-bottom:200px ;
+  color: black;
+}
+.nice4{
+  text-align: center;
+  font-size: 150%;
+  font-style: italic;
+  margin-left:200px;
+  margin-right:200px ;
+  margin-top:200px ;
+  margin-bottom:200px ;
+  color: black;
+}
